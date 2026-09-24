@@ -12,7 +12,8 @@ AI/보안 전문가가 되기위한 Security Lab
 
 `Leon` &nbsp;·&nbsp; Leon
 
-[![Blog](https://img.shields.io/badge/blog-chris.gomdori.app-111111?style=flat-square)](https://naver.com)
+[![Blog](https://fpdhs-github-io.pages.dev/)](https://fpdhs-github-io.pages.dev/)
+
 [![Threads](https://img.shields.io/badge/Threads-@chris__gomdori-111111?style=flat-square&logo=threads&logoColor=white)](https://www.naver.com)
 [![Stars](https://img.shields.io/github/stars/chrisryugj?style=flat-square&label=stars&color=D4472F&labelColor=111111)](https://github.com/fpdhs)
 
@@ -52,4 +53,4 @@ const gomdori = {
 </tr>
 </table>
 
-<sub>One must imagine a public servant happy. &nbsp;·&nbsp; 꾸준하게 끈기있.</sub>
+<sub>One must imagine a public servant happy. &nbsp;·&nbsp; 꾸준하게 끈기있게.</sub>
