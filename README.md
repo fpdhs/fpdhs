@@ -1,7 +1,7 @@
 <img align="right" width="340" alt="cat coding on a laptop" src="./assets/cat-light.svg#gh-light-mode-only">
 <img align="right" width="340" alt="cat coding on a laptop" src="./assets/cat-dark.svg#gh-dark-mode-only">
 
-# Leon's Security Studio 😎
+# Leon's Security Studio 🧪
 
 ** AI 활용을 연구하는 보안 연구소 **
 
