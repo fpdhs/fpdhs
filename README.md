@@ -1,14 +1,14 @@
 <img align="right" width="340" alt="cat coding on a laptop" src="./assets/cat-light.svg#gh-light-mode-only">
 <img align="right" width="340" alt="cat coding on a laptop" src="./assets/cat-dark.svg#gh-dark-mode-only">
 
-# Leon's Security Studio 🧪
+# Leon's Security Studio 😎
 
 ** AI 활용을 연구하는 보안 연구소 **
 
 낮에는 보안 밤에는 Claude Code <br>
 AI 해커톤 <br>
 프로젝트 <br>
-AI 전문가가 될때까지 앞으로 나아가기!
+AI/보안 전문가가 되기위한 비밀연구소
 
 `Leon` &nbsp;·&nbsp; Leon
 
