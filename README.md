@@ -18,6 +18,7 @@ AI/보안 전문가가 되기위한 Security Lab
 
 ## A little more about me...
 
+```js
 const gomdori = {
   role: "AI AX FDE",
   based: "Daejeon, Korea 🇰🇷",
@@ -37,6 +38,9 @@ const gomdori = {
     docParsing: ["kordoc", "kordoc-ai", "docufinder"],
   },
   funFact: "😎",
+};
+```
+
 
 ## What I'm building
 
