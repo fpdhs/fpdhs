@@ -8,7 +8,7 @@
 낮에는 보안 밤에는 Claude Code <br>
 AI 해커톤 <br>
 프로젝트 <br>
-AI/보안 전문가가 되기위한 비밀연구소
+AI/보안 전문가가 되기위한 Security Lab
 
 `Leon` &nbsp;·&nbsp; Leon
 
@@ -18,21 +18,25 @@ AI/보안 전문가가 되기위한 비밀연구소
 
 ## A little more about me...
 
-```js
 const gomdori = {
   role: "AI AX FDE",
-  based: "Seoul, Korea 🇰🇷",
-  code: ["TypeScript", "Rust", "Python"],
-  stack: ["Claude Code", "MCP", "Excel", "HWPX"],
+  based: "Daejeon, Korea 🇰🇷",
+  code: ["TypeScript", "Python", "Bash"],
+  stack: [
+    "Claude Code (Vibe Coding)",
+    "MCP",
+    "Docker",
+    "Azure",
+    "Linux",
+    "VMware",
+    "Excel",
+    "HWPX",
+  ],
   building: {
-              project: ["MediQ-aos"],
-              docParsing: ["kordoc", "kordoc-ai", "docufinder"],
-                aiSearch: ["lexdiff"],
-              agentTools: ["fable-ish", "hermes-dashboard", "ollama-mcp-host"],
-            },
+    project: ["MediQ-aos"],
+    docParsing: ["kordoc", "kordoc-ai", "docufinder"],
+  },
   funFact: "😎",
-};
-```
 
 ## What I'm building
 
@@ -44,4 +48,4 @@ const gomdori = {
 </tr>
 </table>
 
-<sub>One must imagine a public servant happy. &nbsp;·&nbsp; 노력은 결실은 맺는다.</sub>
+<sub>One must imagine a public servant happy. &nbsp;·&nbsp; 꾸준하게 끈기있.</sub>
