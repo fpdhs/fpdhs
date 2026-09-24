@@ -5,7 +5,7 @@
 
 ** AI 활용을 연구하는 보안 연구소 **
 
-낮에는 보안 밤에는 Claude 와 MCP 만들기<br>
+낮에는 보안 밤에는 Claude Code <br>
 AI 해커톤 <br>
 프로젝트 <br>
 AI 전문가가 될때까지 앞으로 나아가기!
@@ -20,18 +20,17 @@ AI 전문가가 될때까지 앞으로 나아가기!
 
 ```js
 const gomdori = {
-  role: "Public AX FDE",
+  role: "AI AX FDE",
   based: "Seoul, Korea 🇰🇷",
   code: ["TypeScript", "Rust", "Python"],
-  stack: ["Claude Code", "MCP", "Vercel", "HWPX"],
+  stack: ["Claude Code", "MCP", "Excel", "HWPX"],
   building: {
-              publicData: ["korean-law-mcp", "korean-stats-mcp", "korean-dart-mcp",
-                           "archhub-mcp", "korean-patent-mcp", "schoolinfo-mcp"],
+              project: ["MediQ-aos"],
               docParsing: ["kordoc", "kordoc-ai", "docufinder"],
                 aiSearch: ["lexdiff"],
               agentTools: ["fable-ish", "hermes-dashboard", "ollama-mcp-host"],
             },
-  funFact: "GitHub 별 5,600+개가 전부 딴짓의 산물 😼",
+  funFact: "😎",
 };
 ```
 
@@ -45,4 +44,4 @@ const gomdori = {
 </tr>
 </table>
 
-<sub>One must imagine a public servant happy. &nbsp;·&nbsp; 딴짓은 멈추지 않는다.</sub>
+<sub>One must imagine a public servant happy. &nbsp;·&nbsp; 노력은 결실은 맺는다.</sub>
