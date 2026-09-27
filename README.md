@@ -3,7 +3,7 @@
 
 # Leon's Security Studio 😎
 
-** AI 활용을 연구하는 보안 연구소 **
+** 취준하는 레온의 비밀 연구소 **
 
 낮에는 보안 밤에는 Claude Code <br>
 AI 해커톤 <br>
