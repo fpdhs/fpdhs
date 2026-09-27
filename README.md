@@ -1,5 +1,5 @@
 <a href="https://fpdhs-github-io.pages.dev/">
-  <img align="right" width="380" alt="Leon's Security Studio" src="./assets/hero.png">
+  <img align="right" width="380" alt="Leon's Security Studio" src="./assets/hero.gif">
 </a>
 
 # Leon's Security Studio 😎
