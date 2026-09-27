@@ -1,7 +1,3 @@
-<a href="https://fpdhs-github-io.pages.dev/">
-  <img align="right" width="380" alt="Leon's Security Studio" src="./assets/hero.gif">
-</a>
-
 # Leon's Security Studio 😎
 
 **취준하는 레온의 비밀 연구소**
