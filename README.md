@@ -9,7 +9,7 @@ AI/보안 전문가가 되기위한 Security Lab
 
 `Leon` &nbsp;·&nbsp; Leon
 
-[![Blog](https://img.shields.io/badge/blog-Leon%27s_Security_Studio-111111?style=flat-square)](https://fpdhs-github-io.pages.dev/)
+[![Blog](https://img.shields.io/badge/blog-Leon%27s_Security_Studio-111111?style=flat-square)](https://security-studio.pages.dev/)
 [![Threads](https://img.shields.io/badge/Threads-@Leon%27s_Security_Studio-111111?style=flat-square&logo=threads&logoColor=white)](https://www.threads.com/@loen0517)
 [![Stars](https://img.shields.io/github/stars/fpdhs?style=flat-square&label=stars&color=D4472F&labelColor=111111)](https://github.com/fpdhs)
 
