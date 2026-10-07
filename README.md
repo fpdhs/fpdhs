@@ -48,4 +48,12 @@ const gomdori = {
 </tr>
 </table>
 
+<table width="100%">
+<tr>
+  <td width="180"><a href=><b>Network Infra</b></a></td>
+  <td width="72" align="right">★&nbsp;<!--stars:mediQ-->2.5k<!--/stars--></td>
+  <td>네트워크 방화벽 및 VLAN 네트워크 구축</td>
+</tr>
+</table>
+
 <sub>One must imagine a public servant happy. &nbsp;·&nbsp; 꾸준하게 끈기있게.</sub>
