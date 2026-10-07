@@ -31,8 +31,7 @@ const gomdori = {
     "HWPX",
   ],
   building: {
-    project: ["MediQ-aos"],
-    docParsing: ["kordoc", "kordoc-ai", "docufinder"],
+    project: ["MediQ","Network Infra"],
   },
   funFact: "😎",
 };
